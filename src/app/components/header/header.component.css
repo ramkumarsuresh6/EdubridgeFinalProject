@@ -1,0 +1,36 @@
+header {
+    padding: 1rem 0;
+    
+}
+
+
+a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+a:hover {
+    background:rgb(63, 127, 205);
+    color: rgb(234, 164, 44);
+    cursor: pointer;
+    border-radius: 10rem;
+}
+
+.logo {
+    font-weight: bolder;
+    padding: 0.5rem;
+}
+
+.navbar-nav {
+    display: flex;
+    align-items: center;
+}
+
+.nav-item {
+    margin-right: 1rem;
+    display: flex;
+}
+
+.dropdown-menu a{
+    color: rgb(38, 135, 199);
+}
